@@ -1,2 +1,1 @@
-# Code-for-esp-32-S3-CAMERA-AND-MESH
-Main code for camera and mesh demonstrations
+The files only contain the necessary code for image capture, decoding, or robot mesh control. The working environment in VS Code should be set first. This code can be found in the "main" and "script" folders. The MCU used is ESP32-S3.
